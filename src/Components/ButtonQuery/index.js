@@ -15,7 +15,6 @@ const ButtonQuery = () => {
     </div>
   )
 }
-
 export default ButtonQuery
 
 
