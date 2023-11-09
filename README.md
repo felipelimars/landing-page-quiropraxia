@@ -13,7 +13,6 @@ A página contato possui um formulário para o usuário enviar um email diretame
 ![Web 1](https://github.com/felipelimars/landing-page-quiropraxia/blob/main/src/assets/1a.png)
 ![Web 2](https://github.com/felipelimars/landing-page-quiropraxia/blob/main/src/assets/2a.png)
 ![Web 3](https://github.com/felipelimars/landing-page-quiropraxia/blob/main/src/assets/3a.png)
-![Web 4](https://github.com/felipelimars/landing-page-quiropraxia/blob/main/src/assets/4a.png)
 ![Web 5](https://github.com/felipelimars/landing-page-quiropraxia/blob/main/src/assets/5a.png)
 ![Web 6](https://github.com/felipelimars/landing-page-quiropraxia/blob/main/src/assets/6a.png)
 ![Web 7](https://github.com/felipelimars/landing-page-quiropraxia/blob/main/src/assets/7a.png)
