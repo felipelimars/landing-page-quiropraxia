@@ -42,6 +42,4 @@ A página contato possui um formulário para o usuário enviar um email diretame
 - useState
 - EmailJS
 
-Autor: 
-
-[Felipe Lima](https://www.linkedin.com/in/felipelimars/)
+Autor: [Felipe Lima](https://www.linkedin.com/in/felipelimars/)
