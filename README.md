@@ -42,22 +42,6 @@ A página contato possui um formulário para o usuário enviar um email diretame
 - useState
 - EmailJS
 
-
-## Como executar o projeto
-
-## Front end web
-Pré-requisitos: npm 
-
-```bash / terminal
-# clonar repositório
-git clone https://github.com/felipelimars/landing-page-quiropraxia
-
-# instalar dependências
-npm install
-
-# executar o localhost
-npm start
-```
 Autor: 
 
 [Felipe Lima](https://www.linkedin.com/in/felipelimars/)
