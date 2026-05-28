@@ -2,7 +2,7 @@
 
 ### Sobre o projeto
 
-[Site)](https://guilhermequiro.com.br/)
+[Site](https://guilhermequiro.com.br/)
 
 Esse projeto foi construído para um profissional de Quiropraxia, uma landing page intuitiva que leva o usuário ao atendimento com o profissional.
 O objetivo é construir um site limpo, funcional e acessivel, visto as regras de negócio e seu público alvo. O site conta com quatro páginas, entre elas Home (página principal), consultas, contato, e sobre nós.
